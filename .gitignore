@@ -25,3 +25,12 @@ hs_err_pid*
 =======
 hs_err_pid*
 >>>>>>> a158152cfbc189bf45e38fefd176e06bcfb8c827
+
+# idea
+*/target
+*.iml
+/.idea
+target/
+.project
+.settings/
+.classpath
